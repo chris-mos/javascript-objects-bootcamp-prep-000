@@ -8,3 +8,4 @@ function updatePlaylist(playlist,artist,song){
   delete playlist[artistName]
   return playlist
   }
+  
