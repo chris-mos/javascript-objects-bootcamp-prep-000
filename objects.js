@@ -1,1 +1,1 @@
-var playlist = {rap:'Kanye', pop:'Frank Ocean'}
+var playlist = {kanye:'Saint Pablo', frankOcean:'Nikes'}
