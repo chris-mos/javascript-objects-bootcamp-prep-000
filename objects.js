@@ -1,5 +1,6 @@
-var playlist = {kanye:'Saint Pablo', frankOcean:'Nikes'}
+var playlist = {artist:'song'}
 function updatePlaylist(playlist,artist,song){
-  return playlist.
+  playlist[artist] = 'song'
+  return 
   
 }
